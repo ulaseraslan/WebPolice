@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ulas.eraslan\\Desktop\\VSProjects\\cs408_webpolice\\cs408_webpolice\\cs408_webpolice.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ulas.eraslan\\Desktop\\VSProjects\\cs408_webpolice\\cs408_webpolice\\cs408_webpolice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ulas.eraslan\\Desktop\\VSProjects\\cs408_webpolice\\cs408_webpolice\\cs408_webpolice.csproj",
+        "projectName": "cs408_webpolice",
+        "projectPath": "C:\\Users\\ulas.eraslan\\Desktop\\VSProjects\\cs408_webpolice\\cs408_webpolice\\cs408_webpolice.csproj",
+        "packagesPath": "C:\\Users\\ulas.eraslan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ulas.eraslan\\Desktop\\VSProjects\\cs408_webpolice\\cs408_webpolice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ulas.eraslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

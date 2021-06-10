@@ -1,0 +1,13 @@
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\obj\Debug\netcoreapp3.1\cs408_webpolice.csprojAssemblyReference.cache
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\obj\Debug\netcoreapp3.1\cs408_webpolice.AssemblyInfoInputs.cache
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\obj\Debug\netcoreapp3.1\cs408_webpolice.AssemblyInfo.cs
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\obj\Debug\netcoreapp3.1\cs408_webpolice.csproj.CoreCompileInputs.cache
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\bin\Debug\netcoreapp3.1\cs408_webpolice.exe
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\bin\Debug\netcoreapp3.1\cs408_webpolice.deps.json
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\bin\Debug\netcoreapp3.1\cs408_webpolice.runtimeconfig.json
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\bin\Debug\netcoreapp3.1\cs408_webpolice.runtimeconfig.dev.json
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\bin\Debug\netcoreapp3.1\cs408_webpolice.dll
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\bin\Debug\netcoreapp3.1\cs408_webpolice.pdb
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\obj\Debug\netcoreapp3.1\cs408_webpolice.dll
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\obj\Debug\netcoreapp3.1\cs408_webpolice.pdb
+C:\Users\ulas.eraslan\Desktop\VSProjects\cs408_webpolice\cs408_webpolice\obj\Debug\netcoreapp3.1\cs408_webpolice.genruntimeconfig.cache
